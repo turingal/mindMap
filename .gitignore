@@ -1,0 +1,9 @@
+/src/moodle/*
+/src/moodledata/
+/src/vendor/
+!/src/moodle/local/
+!/src/moodle/.htaccess
+/src/node_modules/
+.idea/
+/src/.venv/
+/**/*.pyc
